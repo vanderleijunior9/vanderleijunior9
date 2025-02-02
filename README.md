@@ -18,6 +18,7 @@ Here are some of the projects I’ve built:
 - Web Development (HTML, CSS, JavaScript)
 - Data Structures and Algorithms
 - Version Control with Git and GitHub
+- Starting out with c++ by Tony Gadds (School Projects)
 
 ---
 
