@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Vanderlei Junior!
+# 👋 Hi, I'm Vanderlei!
 
 🎓 **Computer Science Student**  
 Passionate about coding, problem-solving, and building cool projects. Always learning and exploring new technologies to grow as a developer. 🚀
