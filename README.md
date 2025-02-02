@@ -27,5 +27,9 @@ Here are some of the projects I’ve built:
 ## 📫 Let’s Connect!
 
 - LinkedIn: [Vanderlei Junior](https://www.linkedin.com/in/vanderlei-ferreira-jr-944555165/)
-- Website Portifolio: vanderleiferreira.tech
+- Website Portfolio: [vanderleiferreira.tech](https://vanderleiferreira.tech)
+
+---
+
+Made with ❤️ by Vanderlei Junior
 
