@@ -10,6 +10,8 @@ Passionate about coding, problem-solving, and building cool projects. Always lea
 Here are some of the projects I’ve built:
 
 - 🛒 **[Shopping List](https://github.com/vanderleijunior9/shopping-list)**: A simple shopping list app using browser storage.
+- - 🛒 **[Euro Coin Change Cauculator](https://github.com/vanderleijunior9/lab04-Eurocoins)**: App in C++ that cauculates your change in coins.
+
 
 ---
 
